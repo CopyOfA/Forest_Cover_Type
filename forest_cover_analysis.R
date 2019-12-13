@@ -7,7 +7,7 @@ library(lubridate)
 
 
 # Read in csv file.
-forest_cover = read.csv("/dsa/data/all_datasets/Forest/forest_cover.csv")
+forest_cover = read.csv("/forest_cover.csv")
 head(forest_cover)
 
 
